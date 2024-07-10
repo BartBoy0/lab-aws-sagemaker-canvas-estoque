@@ -20,6 +20,8 @@ De acordo com as métricas (acurácia de aproximadamente 98,5%) a principal caus
 ### 4. Prever
 
 ![image](https://github.com/BartBoy0/lab-aws-sagemaker-canvas-estoque/assets/167994494/ab983b28-abd1-4173-95bf-5c69b5a952ac)
+
 Com o aumento do torque, uma maior chance de falha
+
 ![image](https://github.com/BartBoy0/lab-aws-sagemaker-canvas-estoque/assets/167994494/a9d0706f-e3ce-4791-9e6d-24fb9e4f34ab)
 
